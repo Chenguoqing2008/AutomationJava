@@ -1,0 +1,4 @@
+在这个例子中
+companyManager.printAllEmployee(new SubCompanyManager());
+companyManager与SubCompanyManager有依赖关系，而与subemployee没有依赖关系，subemployee不应该暴露过多的内部细节给companyManager
+所以需要重构
