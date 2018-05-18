@@ -1,4 +1,4 @@
-/**
+package structure.chaper3; /**
  *  @author Lewis and Chase
  *
  *  Demonstrates the use of a stack to evaluate postfix expressions.

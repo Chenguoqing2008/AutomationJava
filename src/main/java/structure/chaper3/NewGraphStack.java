@@ -1,3 +1,5 @@
+package structure.chaper3;
+
 /**
  *  @author Lewis and Chase
  *

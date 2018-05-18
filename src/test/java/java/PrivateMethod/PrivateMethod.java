@@ -1,6 +1,5 @@
 package java.PrivateMethod;
 
-import java8Exercise.Student;
 
 public class PrivateMethod {
 

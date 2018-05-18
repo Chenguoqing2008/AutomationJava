@@ -3,7 +3,7 @@
  *
  *  Defines the interface to a stack data structure.
  */
-package jss2;
+package structure.chaper3;
 
 public interface StackADT<T>
 {

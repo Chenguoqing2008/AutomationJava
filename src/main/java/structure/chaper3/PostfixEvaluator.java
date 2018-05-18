@@ -1,10 +1,10 @@
-/**
+package structure.chaper3; /**
  *  @author Lewis and Chase
  *
  *  Represents an integer evaluator of postfix expressions. Assumes 
  *  the operands are constants.
  */
-import jss2.ArrayStack;
+
 import java.util.StringTokenizer;
 
 public class PostfixEvaluator

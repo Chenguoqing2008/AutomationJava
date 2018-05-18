@@ -3,7 +3,7 @@
  *
  *  Represents the situation in which a collection is empty.
  */
-package jss2.exceptions;
+package structure.chaper3;
 
 public class EmptyCollectionException extends RuntimeException
 {

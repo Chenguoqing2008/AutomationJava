@@ -3,8 +3,8 @@
  *
  *  Represents an array implementation of a stack.
  */
-package jss2;
-import jss2.exceptions.*;
+package structure.chaper3;
+
 
 
 public class ArrayStack<T> implements StackADT<T>
