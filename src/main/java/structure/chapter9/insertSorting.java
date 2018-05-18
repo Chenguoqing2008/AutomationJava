@@ -1,5 +1,10 @@
 package structure.chapter9;
 
+import Gson.Student;
+import org.assertj.core.util.Lists;
+
+import java.util.Date;
+
 public class insertSorting{
   public static <T extends Comparable<? super T>> void sorting(T[] data){
       for (int index = 1; index < data.length; index++) {
@@ -21,6 +26,18 @@ public class insertSorting{
 
             System.out.println("The sorted list is: " + sortinglist[i]);
         }
+
+        Student s1 = new Student("Robin","Futian district",new Date());
+        Student s2 = new Student("Zhizhi","Futian district",new Date());
+        Student s3 = new Student("Bob","Washionton district",new Date());
+        Student s4 = new Student("Hams","Virginia district",new Date());
+        Student[] studentslist = {s1,s2,s3,s4};
+        sorting(studentslist);
+        for (int i = 0; i <studentslist.length ; i++) {
+
+            System.out.println("The sorted student name is: " + studentslist[i].getName());
+        }
+
     }
 
 }

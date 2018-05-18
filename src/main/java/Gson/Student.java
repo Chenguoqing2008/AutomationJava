@@ -2,7 +2,7 @@ package Gson;
 
 import java.util.Date;
 
-public class Student {
+public class Student implements Comparable<Student> {
     private String name;
     private String address;
     private Date dateOfBirth;
@@ -38,5 +38,10 @@ public class Student {
 
     public void setDateOfBirth(Date dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        return this.name.compareTo(o.name)<= 0 ? -1:1;
     }
 }
