@@ -14,8 +14,7 @@ public class BubbleSort {
 	}
 
 	private static <T extends Comparable<? super T>> void swap(T[] data, int index, int scan) {
-		 T tmp;
-		 tmp = data[index];
+		 T tmp = data[index];
 		 data[index] = data[scan];
 		 data[scan] = tmp;
 	}

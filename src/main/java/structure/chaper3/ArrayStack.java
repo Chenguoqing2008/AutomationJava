@@ -7,7 +7,7 @@ package structure.chaper3;
 
 
 
-public class ArrayStack<T> implements StackADT<T>
+public class  ArrayStack<T> implements StackADT<T>
 {
   /**
    * constant to represent the default capacity of the array
