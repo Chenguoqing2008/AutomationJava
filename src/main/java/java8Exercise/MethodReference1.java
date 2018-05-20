@@ -1,9 +1,9 @@
-package java.java8Exercise;
+package java8Exercise;
 
-public class MethodReference2 {
+public class MethodReference1{
 
     public static void main(String[] args){
-        Thread thread = new Thread(MethodReference2::printMessage);
+        Thread thread = new Thread(MethodReference1::printMessage);
         thread.start();
     }
 

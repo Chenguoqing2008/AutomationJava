@@ -1,4 +1,4 @@
-package java.CollectionsExercise;
+package Collections.CollectionsExercise;
 
 import java.util.Collections;
 import java.util.Deque;

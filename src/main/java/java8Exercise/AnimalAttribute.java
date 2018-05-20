@@ -1,4 +1,4 @@
-package java.java8Exercise;
+package java8Exercise;
 
 public interface AnimalAttribute {
 

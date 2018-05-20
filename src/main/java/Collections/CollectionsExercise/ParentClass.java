@@ -1,4 +1,4 @@
-package java.CollectionsExercise;
+package Collections.CollectionsExercise;
 
 public class ParentClass {
 
