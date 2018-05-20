@@ -1,5 +1,6 @@
-package java8Exercise;
+package java.lambdaexercise;
 
+import java8Exercise.Student;
 import org.junit.Test;
 
 import java.util.ArrayList;

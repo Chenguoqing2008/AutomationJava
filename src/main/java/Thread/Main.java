@@ -1,5 +1,7 @@
 package Thread;
 
+import Thread.Executor.ExecutorTask;
+
 import java.util.Random;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -16,7 +18,7 @@ public class Main {
 //7. 创建并提交10个 Task 对象给执行者。用随机数字初始化任务。
         Random random = new Random();
         for (int i = 0; i < 10; i++) {
-            Task task = new Task(random.nextInt(10000));
+            ExecutorTask task = new ExecutorTask(random.nextInt(10000));
             executor.submit(task);
         }
 
