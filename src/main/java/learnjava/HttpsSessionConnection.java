@@ -1,6 +1,7 @@
 package learnjava;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
