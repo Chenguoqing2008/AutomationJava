@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35bb7003-f3b4-4e99-9e02-89d8ba06f34e" name="Default" comment="">
+    <list default="true" id="35bb7003-f3b4-4e99-9e02-89d8ba06f34e" name="Default" comment="Add workspace.xml">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -589,7 +589,7 @@
       <workItem from="1526945700534" duration="8931000" />
       <workItem from="1527073918966" duration="4648000" />
       <workItem from="1527170412410" duration="534000" />
-      <workItem from="1527340564023" duration="3038000" />
+      <workItem from="1527340564023" duration="3091000" />
     </task>
     <task id="LOCAL-00001" summary="Add idea config files.">
       <created>1522925507965</created>
@@ -689,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527343599455</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add workspace.xml">
+      <created>1527343638434</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1527343638434</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -698,7 +705,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68568000" />
+    <option name="totallyTimeSpent" value="68621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="49" width="1942" height="1042" extended-state="6" />
@@ -752,7 +759,8 @@
     <MESSAGE value="Add ReentrantLock instance." />
     <MESSAGE value="Add learn java exercise." />
     <MESSAGE value="Add modified httpconnection java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add modified httpconnection java" />
+    <MESSAGE value="Add workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
