@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35bb7003-f3b4-4e99-9e02-89d8ba06f34e" name="Default" comment="Add Re">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_12_0.xml" />
+    <list default="true" id="35bb7003-f3b4-4e99-9e02-89d8ba06f34e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/learnjava/HttpsSessionConnection.java" afterPath="$PROJECT_DIR$/src/main/java/learnjava/HttpsSessionConnection.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -601,7 +589,7 @@
       <workItem from="1526945700534" duration="8931000" />
       <workItem from="1527073918966" duration="4648000" />
       <workItem from="1527170412410" duration="534000" />
-      <workItem from="1527340564023" duration="2965000" />
+      <workItem from="1527340564023" duration="3038000" />
     </task>
     <task id="LOCAL-00001" summary="Add idea config files.">
       <created>1522925507965</created>
@@ -694,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527343375016</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add modified httpconnection java">
+      <created>1527343599455</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527343599455</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -703,7 +698,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68495000" />
+    <option name="totallyTimeSpent" value="68568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="49" width="1942" height="1042" extended-state="6" />
@@ -756,7 +751,8 @@
     <MESSAGE value="Add String practice." />
     <MESSAGE value="Add ReentrantLock instance." />
     <MESSAGE value="Add learn java exercise." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add learn java exercise." />
+    <MESSAGE value="Add modified httpconnection java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add modified httpconnection java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
