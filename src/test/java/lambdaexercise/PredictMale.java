@@ -1,4 +1,4 @@
-package java.lambdaexercise;
+package lambdaexercise;
 
 import java8Exercise.Student;
 import org.junit.Test;

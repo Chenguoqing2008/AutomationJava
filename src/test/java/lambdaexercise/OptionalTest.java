@@ -1,4 +1,4 @@
-package java.lambdaexercise;
+package lambdaexercise;
 
 import org.junit.Test;
 import org.w3c.dom.events.EventException;

@@ -1,4 +1,4 @@
-package java.junit4tutorial;
+package junit4tutorial;
 
 import juni4tutorial.SumNumber;
 import org.junit.Before;

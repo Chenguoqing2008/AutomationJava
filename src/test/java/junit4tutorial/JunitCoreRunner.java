@@ -1,4 +1,4 @@
-package java.junit4tutorial;
+package junit4tutorial;
 
 import org.junit.Assert;
 import org.junit.Test;

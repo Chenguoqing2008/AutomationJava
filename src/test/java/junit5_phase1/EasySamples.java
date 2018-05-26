@@ -1,4 +1,4 @@
-package java.junit5_phase1;
+package junit5_phase1;
 
 //
 //import org.junit.jupiter.api.Assertions;
