@@ -1,4 +1,4 @@
-package Collections;
+package LearnGuava;
 
 import com.google.common.base.Splitter;
 import com.google.common.collect.HashMultiset;
@@ -12,6 +12,8 @@ public class MultisetDemo {
         for (String word : words) {
             multiset.add(word);
         }
+
+        System.out.println(multiset);
 
         for (Object element : multiset.elementSet()) {
             System.out.println((String)element + ":" + multiset.count(element));
